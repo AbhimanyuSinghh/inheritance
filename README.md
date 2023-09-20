@@ -12,4 +12,8 @@ so both of them will reuse these two methods, signIN and signUp. and they will h
 classes!
 
 this is just the explanation of the inheritance topic, I have not written the codes as inheritance was the main motto,
-however, I will try to write the code as well in future or you can contribute as well
+however, I will try to write the code as well in future or you can contribute as well.
+
+Also, there is this Super.py file as well and here I have written a simple function exhibiting the behaviour of the Super keyword.
+
+If you want to sort out the issue, please go to the inheritance.py file read the details and contribute.
